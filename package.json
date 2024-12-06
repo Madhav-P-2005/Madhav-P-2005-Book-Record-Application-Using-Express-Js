@@ -1,0 +1,16 @@
+{
+  "name": "book-record-application",
+  "version": "1.0.0",
+  "description": "POST : create a new User \r GET : Get all list of users",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "author": "Madhav P",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
